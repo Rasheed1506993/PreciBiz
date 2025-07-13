@@ -12,7 +12,7 @@ const Footer = () => {
           <div className="text-center md:text-right">
             <div className="mb-4 flex justify-center md:justify-start">
               <img 
-                src="/lovable-uploads/logo.png" 
+                src="/PreciBiz/lovable-uploads/logo.png" 
                 alt="مكتب المازن - MAZT" 
                 className="h-12 sm:h-16 w-auto"
               />

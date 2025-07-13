@@ -29,7 +29,7 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <BrowserRouter>
+      <BrowserRouter basename="/PreciBiz">
         <div className="min-h-screen flex flex-col">
           <Navbar />
           <main className="flex-grow">
@@ -61,3 +61,5 @@ const App = () => (
 );
 
 export default App;
+
+
